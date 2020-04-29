@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reto</string>
+    <string name="running">Reto is running</string>
+    <string name="default_floatingview_channel_id">default_floatingview_channel</string>
+    <string name="default_floatingview_channel_name">Default Channel</string>
+
+</resources>
